@@ -1,0 +1,10 @@
+img{
+    vertical-align: text-top;
+}
+p > em{
+    background-color: blue;
+}
+
+h1{
+    text-transform: uppercase;
+}
